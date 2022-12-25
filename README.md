@@ -1,2 +1,1 @@
-Thanish Ahamed
-Software Engineer at Hatchyard
+#Software Engineer at Hatchyard
